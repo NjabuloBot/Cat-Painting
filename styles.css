@@ -58,3 +58,8 @@ body{
     border-top-left-radius: 90px;
     border-top-right-radius: 10px;
 }
+
+.cat-right-inner-ear{
+    border:20px solid transparent;
+    border-bottom:40px soild #3b3b4f;
+}
