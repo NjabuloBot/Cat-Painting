@@ -32,3 +32,8 @@ body{
     transform: rotate(-45deg);
 }
 
+.cat-right-ear{
+    border-left:35px solid transparent;
+    border-right: 35px solid transparent;
+    border-bottom:70px soild #5e5e5e;
+}
