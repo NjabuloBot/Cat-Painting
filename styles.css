@@ -40,4 +40,6 @@ body{
     top:-26px;
     left:163px;
     transform: rotate(45deg);
+    border-bottom-left-radius: 90px;
+    border-bottom-right-radius: 10px;
 }
