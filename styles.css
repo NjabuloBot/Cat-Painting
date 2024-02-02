@@ -170,3 +170,9 @@ body{
     left:52px;
     transform:rotate(10deg);
 }
+
+.cat-whisker-midlle-top{
+    position: absolute;
+    top:127px;
+    left:52px;
+}
